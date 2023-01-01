@@ -1,13 +1,13 @@
 {
-  "name": "restaurant",
-  "homepage": "https://restaurant.dexignzone.com/react/",
+  "name": "Bestro",
+  "homepage": "",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@fullcalendar/daygrid": "^5.5.0",
     "@fullcalendar/react": "^5.5.0",
     "bootstrap": "^4.5.3",
-    "react": "^14.14.0",
+    "react": "^16.14.0",
     "react-animated-slider": "^1.1.4",
     "react-bootstrap": "^1.4.0",
     "react-countup": "^4.3.3",
